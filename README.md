@@ -11,11 +11,11 @@
 <br><br>
 
 <a href="https://devgusta.web.app/" target="_blank">
-<img src="https://img.shields.io/badge/🌐_PORTFÓLIO-0f172a?style=for-the-badge&logo=google-chrome&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/PORTFÓLIO-0f172a?style=for-the-badge&logo=google-chrome&logoColor=38BDF8"/>
 </a>
 
 <a href="mailto:kugelgustavo@gmail.com">
-<img src="https://img.shields.io/badge/📧_EMAIL-0f172a?style=for-the-badge&logo=gmail&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/EMAIL-0f172a?style=for-the-badge&logo=gmail&logoColor=38BDF8"/>
 </a>
 
 <a href="https://github.com/Gustavo-Kugel">
@@ -26,7 +26,7 @@
 
 ---
 
-# 🚀 Sobre mim
+# <img src="https://cdn-icons-png.flaticon.com/512/2721/2721291.png" width="28"> Sobre mim
 
 ```yaml
 Nome: Gustavo Kugel
@@ -41,7 +41,7 @@ Foco:
   - Experiências responsivas
 ```
 
-💡 Desenvolvedor apaixonado por tecnologia, performance e design moderno.
+Desenvolvedor apaixonado por tecnologia, performance e design moderno.
 
 Atualmente focado em desenvolver aplicações completas, unindo:
 
@@ -52,7 +52,7 @@ Atualmente focado em desenvolver aplicações completas, unindo:
 
 ---
 
-# 🛠️ Stack Principal
+# <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="28"> Stack Principal
 
 <div align="center">
 
@@ -62,13 +62,13 @@ Atualmente focado em desenvolver aplicações completas, unindo:
 
 ---
 
-# 🧠 Projetos em Destaque
+# <img src="https://cdn-icons-png.flaticon.com/512/2920/2920244.png" width="28"> Projetos em Destaque
 
-## 📅 SchedulePro
+## <img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="22"> SchedulePro
 
 Sistema completo de agendamento online para empresas e profissionais.
 
-### 🔥 Funcionalidades
+### Funcionalidades
 
 * agendamento em tempo real
 * painel administrativo
@@ -79,19 +79,19 @@ Sistema completo de agendamento online para empresas e profissionais.
 * gerenciamento de clientes
 * versão mobile responsiva
 
-### ⚙️ Tecnologias
+### Tecnologias
 
-`HTML` `CSS` `JavaScript` `Firebase` `MySQL`
+`HTML` `CSS` `JavaScript` `Java` `MySQL`
 
 🔗 https://devgusta.web.app/
 
 ---
 
-## 🚗 AutoManager
+## <img src="https://cdn-icons-png.flaticon.com/512/3081/3081559.png" width="22"> AutoManager
 
 Plataforma profissional para oficinas e centros automotivos.
 
-### 🔥 Funcionalidades
+### Funcionalidades
 
 * ordens de serviço
 * controle de estoque
@@ -101,7 +101,7 @@ Plataforma profissional para oficinas e centros automotivos.
 * relatórios inteligentes
 * cadastro de clientes
 
-### ⚙️ Tecnologias
+### Tecnologias
 
 `Java` `MySQL` `JavaScript` `Firebase`
 
@@ -109,11 +109,11 @@ Plataforma profissional para oficinas e centros automotivos.
 
 ---
 
-## 🛒 NexaStore
+## <img src="https://cdn-icons-png.flaticon.com/512/3144/3144456.png" width="22"> NexaStore
 
 E-commerce moderno com painel administrativo avançado.
 
-### 🔥 Funcionalidades
+### Funcionalidades
 
 * gerenciamento de produtos
 * carrinho inteligente
@@ -123,19 +123,19 @@ E-commerce moderno com painel administrativo avançado.
 * painel empresarial
 * autenticação de usuários
 
-### ⚙️ Tecnologias
+### Tecnologias
 
-`HTML` `CSS` `JavaScript` `Firebase`
+`HTML` `CSS` `JavaScript` `Java`
 
 🔗 https://devgusta.web.app/
 
 ---
 
-## 🤖 FlowChat AI
+## <img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" width="22"> FlowChat AI
 
 Chatbot inteligente para automação de atendimento empresarial.
 
-### 🔥 Funcionalidades
+### Funcionalidades
 
 * integração WhatsApp
 * respostas automáticas
@@ -145,43 +145,47 @@ Chatbot inteligente para automação de atendimento empresarial.
 * painel administrativo
 * relatórios de atendimento
 
-### ⚙️ Tecnologias
+### Tecnologias
 
-`JavaScript` `Firebase` `APIs`
-
-🔗 https://devgusta.web.app/
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Kugel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Kugel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
----
-
-# 🔥 Contribuições
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Gustavo-Kugel&theme=tokyonight&hide_border=true&background=0D1117"/>
-
-</div>
-
----
-
-# 🌐 Meu Portfólio
+`JavaScript` `Java` `APIs`
 
 🔗 https://devgusta.web.app/
 
 ---
 
-# 📫 Contato
+# <img src="https://cdn-icons-png.flaticon.com/512/2784/2784487.png" width="28"> GitHub Analytics
+
+<div align="center">
+
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Kugel&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Kugel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</div>
+
+---
+
+# <img src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png" width="28"> Contribuições
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gustavo-Kugel&theme=tokyo-night&hide_border=true&area=true"/>
+
+<br><br>
+
+<img width="95%" src="https://streak-stats.demolab.com?user=Gustavo-Kugel&theme=tokyonight&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+
+</div>
+
+---
+
+# <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="28"> Meu Portfólio
+
+🔗 https://devgusta.web.app/
+
+---
+
+# <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" width="28"> Contato
 
 📧 [kugelgustavo@gmail.com](mailto:kugelgustavo@gmail.com)
 
@@ -195,6 +199,6 @@ Chatbot inteligente para automação de atendimento empresarial.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:0ea5e9&height=120&section=footer"/>
 
-### 🚀 Obrigado por visitar meu perfil!
+<h3>Full Stack Developer • Front-End & Back-End</h3>
 
 </div>
