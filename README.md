@@ -2,48 +2,61 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Desenvolvedor+Front-End;Criando+interfaces+modernas;Especialista+em+sistemas+web;Projetos+modernos+e+responsivos" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Front-End+%2B+Back-End;Criando+sistemas+modernos;Interfaces+premium+e+responsivas;JavaScript+•+Java+•+Firebase+•+MySQL" />
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:111827&height=200&section=header&text=DEV%20GUSTA&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
 <br><br>
 
 <a href="https://devgusta.web.app/" target="_blank">
-<img src="https://img.shields.io/badge/🌐_PORTFÓLIO-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
+<img src="https://img.shields.io/badge/🌐_PORTFÓLIO-0f172a?style=for-the-badge&logo=google-chrome&logoColor=38BDF8"/>
 </a>
 
 <a href="mailto:kugelgustavo@gmail.com">
-<img src="https://img.shields.io/badge/📧_EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/📧_EMAIL-0f172a?style=for-the-badge&logo=gmail&logoColor=38BDF8"/>
 </a>
 
 <a href="https://github.com/Gustavo-Kugel">
-<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-0f172a?style=for-the-badge&logo=github&logoColor=38BDF8"/>
 </a>
 
 </div>
 
 ---
 
-# 👨‍💻 Sobre mim
+# 🚀 Sobre mim
 
-Olá! Me chamo **Gustavo Kugel**.
+```yaml
+Nome: Gustavo Kugel
+Função: Full Stack Developer
+Especialidade: Front-End + Back-End
+Foco:
+  - Interfaces modernas
+  - Sistemas web profissionais
+  - Dashboards administrativos
+  - Firebase & APIs
+  - Java + MySQL
+  - Experiências responsivas
+```
 
-Sou desenvolvedor focado em:
+💡 Desenvolvedor apaixonado por tecnologia, performance e design moderno.
 
-* interfaces modernas
-* sistemas web profissionais
+Atualmente focado em desenvolver aplicações completas, unindo:
+
+* front-end moderno
+* back-end escalável
 * automações inteligentes
-* dashboards administrativos
-* experiências responsivas
-* integração com Firebase e APIs
-
-Sempre buscando criar projetos modernos, rápidos e visualmente impactantes.
+* experiência premium para usuários
 
 ---
 
-# 🚀 Tecnologias
+# 🛠️ Stack Principal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,firebase,github,java,mysql,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,firebase,github,vscode" />
 
 </div>
 
@@ -53,16 +66,22 @@ Sempre buscando criar projetos modernos, rápidos e visualmente impactantes.
 
 ## 📅 SchedulePro
 
-Sistema inteligente de agendamento online para empresas e profissionais autônomos.
+Sistema completo de agendamento online para empresas e profissionais.
 
-- agendamento em tempo real
-- painel administrativo completo
-- integração com WhatsApp
-- confirmação automática de horários
-- gestão de clientes e serviços
-- dashboard com relatórios
-- autenticação segura
-- versão responsiva para celular
+### 🔥 Funcionalidades
+
+* agendamento em tempo real
+* painel administrativo
+* integração com WhatsApp
+* notificações automáticas
+* autenticação segura
+* dashboard analítico
+* gerenciamento de clientes
+* versão mobile responsiva
+
+### ⚙️ Tecnologias
+
+`HTML` `CSS` `JavaScript` `Firebase` `MySQL`
 
 🔗 https://devgusta.web.app/
 
@@ -70,33 +89,43 @@ Sistema inteligente de agendamento online para empresas e profissionais autônom
 
 ## 🚗 AutoManager
 
-Plataforma completa para gerenciamento de oficinas e serviços automotivos.
+Plataforma profissional para oficinas e centros automotivos.
 
-- ordens de serviço
-- controle de estoque
-- cadastro de clientes
-- cálculo automático de lucro
-- histórico de manutenção
-- dashboard empresarial
-- controle financeiro
-- integração com banco de dados MySQL
+### 🔥 Funcionalidades
+
+* ordens de serviço
+* controle de estoque
+* dashboard financeiro
+* cálculo automático de lucro
+* histórico de manutenção
+* relatórios inteligentes
+* cadastro de clientes
+
+### ⚙️ Tecnologias
+
+`Java` `MySQL` `JavaScript` `Firebase`
 
 🔗 https://devgusta.web.app/
 
 ---
 
-## 🛍️ NexaStore
+## 🛒 NexaStore
 
 E-commerce moderno com painel administrativo avançado.
 
-- gerenciamento de produtos
-- pagamentos integrados
-- carrinho inteligente
-- painel analytics
-- controle de pedidos
-- sistema de cupons
-- autenticação de usuários
-- layout premium responsivo
+### 🔥 Funcionalidades
+
+* gerenciamento de produtos
+* carrinho inteligente
+* integração de pagamentos
+* analytics em tempo real
+* sistema de cupons
+* painel empresarial
+* autenticação de usuários
+
+### ⚙️ Tecnologias
+
+`HTML` `CSS` `JavaScript` `Firebase`
 
 🔗 https://devgusta.web.app/
 
@@ -104,82 +133,43 @@ E-commerce moderno com painel administrativo avançado.
 
 ## 🤖 FlowChat AI
 
-Chatbot empresarial inteligente com automação avançada.
+Chatbot inteligente para automação de atendimento empresarial.
 
-- integração com WhatsApp
-- respostas automáticas
-- fluxo personalizado
-- inteligência artificial
-- agendamento automático
-- painel administrativo
-- captura de leads
-- relatórios de atendimento
+### 🔥 Funcionalidades
+
+* integração WhatsApp
+* respostas automáticas
+* fluxo inteligente
+* captura de leads
+* agendamentos automáticos
+* painel administrativo
+* relatórios de atendimento
+
+### ⚙️ Tecnologias
+
+`JavaScript` `Firebase` `APIs`
 
 🔗 https://devgusta.web.app/
 
-🔗 [https://devgusta.web.app/](https://devgusta.web.app/)
-
 ---
 
-## 🛒 NexaCommerce
-
-Plataforma de e-commerce moderna com:
-
-* painel administrativo
-* controle de estoque
-* relatórios inteligentes
-* integração de pagamentos
-* experiência mobile premium
-
-🔗 [https://devgusta.web.app/](https://devgusta.web.app/)
-
----
-
-## 📋 SmartOS
-
-Sistema profissional de Ordem de Serviço:
-
-* cadastro de clientes
-* controle de estoque
-* cálculo automático de lucro
-* dashboard empresarial
-* gerenciamento de peças
-
-🔗 [https://devgusta.web.app/](https://devgusta.web.app/)
-
----
-
-## 🤖 AutoChat AI
-
-Chatbot inteligente para empresas:
-
-* respostas automáticas
-* integração WhatsApp
-* agendamentos automáticos
-* fluxo inteligente
-* atendimento humanizado
-
-🔗 [https://devgusta.web.app/](https://devgusta.web.app/)
-
----
-
-# 📊 Estatísticas
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Kugel&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Kugel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Kugel&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Kugel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
 ---
 
-# 🔥 Sequência de Contribuições
+# 🔥 Contribuições
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Gustavo-Kugel&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Gustavo-Kugel&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 </div>
 
@@ -187,21 +177,23 @@ Chatbot inteligente para empresas:
 
 # 🌐 Meu Portfólio
 
-🔗 [https://devgusta.web.app/](https://devgusta.web.app/)
+🔗 https://devgusta.web.app/
 
 ---
 
 # 📫 Contato
 
-📧 Email: [kugelgustavo@gmail.com](mailto:kugelgustavo@gmail.com)
+📧 [kugelgustavo@gmail.com](mailto:kugelgustavo@gmail.com)
 
-🌐 Site: [https://devgusta.web.app/](https://devgusta.web.app/)
+🌐 https://devgusta.web.app/
 
-🚀 GitHub: [https://github.com/Gustavo-Kugel](https://github.com/Gustavo-Kugel)
+🚀 https://github.com/Gustavo-Kugel
 
 ---
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:0ea5e9&height=120&section=footer"/>
 
 ### 🚀 Obrigado por visitar meu perfil!
 
