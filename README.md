@@ -157,9 +157,9 @@ Chatbot inteligente para automação de atendimento empresarial.
 
 <div align="center">
 
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Kugel&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Kugel&show_icons=true&theme=tokyonight" />
 
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Kugel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Kugel&layout=compact&theme=tokyonight" />
 
 </div>
 
