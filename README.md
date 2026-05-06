@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Olá, eu sou Gustavo Kugel
 
-<!--
-**Gustavo-Kugel/Gustavo-Kugel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Front-End  
+🚀 Criador do projeto Dev Gusta  
+🎨 Apaixonado por interfaces modernas e tecnologia  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias que utilizo
+
+- HTML
+- CSS
+- JavaScript
+- Firebase
+- GitHub
+- MySQL
+- Java
+
+---
+
+## 🌐 Meu Portfólio
+
+🔗 https://devgusta.web.app/
+
+---
+
+## 📫 Contato
+
+📧 kugelgustavo@gmail.com
+
+---
+
+## 📊 GitHub Stats
+
+![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavo-Kugel&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Linguagens mais usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Kugel&layout=compact&theme=tokyonight)
