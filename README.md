@@ -153,17 +153,6 @@ Chatbot inteligente para automação de atendimento empresarial.
 
 ---
 
-# <img src="https://cdn-icons-png.flaticon.com/512/2784/2784487.png" width="28"> GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Kugel&show_icons=true&theme=tokyonight" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Kugel&layout=compact&theme=tokyonight" />
-
-</div>
-
----
 
 # <img src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png" width="28"> Contribuições
 
